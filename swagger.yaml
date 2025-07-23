@@ -1,7 +1,7 @@
 openapi: 3.0.4
 info:
   title: UniLink Api
-  description: This is the API specification for the UniLink app. ![University list screen](/universities.png)
+  description: This is the API specification for the UniLink app. ![University list screen](/UniLinkAPI/universities.png)
   version: 1.0.0
 paths:
   /university:
